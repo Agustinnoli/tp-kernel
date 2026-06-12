@@ -1,3 +1,29 @@
+# Kernel Educativo
+
+Implementación de componentes fundamentales de un sistema operativo educativo
+para arquitectura x86.
+
+## Conceptos aplicados
+
+- Planificación de procesos
+- Interrupciones
+- Concurrencia
+- Sincronización
+- Gestión de memoria
+- Programación en C y Assembly
+
+## Tecnologías
+
+- C
+- x86 Assembly
+- Linux
+
+## Contexto académico
+
+Trabajo práctico de Sistemas Operativos (UBA).
+
+## Consigna original
+
 # Trabajo Práctico de System Programming
 
 Arquitectura y Organización del Computador
