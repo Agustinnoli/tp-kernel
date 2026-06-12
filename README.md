@@ -16,7 +16,7 @@ para arquitectura x86.
 
 - C
 - x86 Assembly
-- Linux
+- QEMU
 
 ## Contexto académico
 
